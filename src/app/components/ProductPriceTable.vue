@@ -6,7 +6,6 @@ defineProps({
   title:String,
 })
 
-console.log(document.body.clientWidth)
 const count = ref(0)
 const totalDots =  (document.body.clientWidth > 600)? 60 : 30
 const formatter = new Intl.NumberFormat('es-MX', {

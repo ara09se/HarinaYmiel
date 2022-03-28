@@ -17,7 +17,7 @@
         padding: 10px;
         margin-top: 55px;
         background-color: #d1c9e0;
-        width: calc(100%-10px);
+        width: calc(100% - 20px);
     }
     p.footertext {
         font-size:8pt;
